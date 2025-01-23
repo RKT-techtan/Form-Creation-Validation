@@ -1,3 +1,4 @@
+//(A.). Fetching Data from an API and Displaying It
 async function fetchUserData() {
     // 1. Define the API URL
     const apiUrl = 'https://jsonplaceholder.typicode.com/users';
