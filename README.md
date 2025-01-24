@@ -28,3 +28,13 @@ Enhance User Experience:
 
 Provide real-time feedback to users for form validation.
 Ensure data persists across browser sessions using local storage.
+
+PROJECTS CREATED:
+1. JavaScript
+(a.) File: index.html, style.css, script.js
+
+          Implement a form validation script using basic JavaScript string methods and conditions. Upon form submission, validate the input fields for username, email, and password according to specific criteria. Display a success message if all validations pass, or appropriate error messages if any validations fail.
+
+(b.) File: fetch-data.html, fetch-data.css, fetch-data.js
+
+          You` will write JavaScript code to asynchronously fetch user data from a public API and display each user’s name on a web page. Your code will also handle potential errors during the fetch operation.
